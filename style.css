@@ -1,0 +1,46 @@
+.heading{
+    width: 100%;
+    margin: 0;
+    font-size: 23px;
+}
+.note{
+    font-size: 15px;
+    color: black;
+}
+.diskimg{
+    width: 200px;
+    border-radius: 100px;
+}
+#speeddiv{
+    float: left;
+}
+
+#speeddiv h3{
+font-size: 23px;
+margin: 15px;
+}
+body{
+    background-size: cover;
+}
+#volumediv{
+    float: right;
+}
+#volumediv h3{
+    font-size: 23px;
+    margin: 15px;
+}
+.playbtn, .stopbtn{
+    width: 90px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px lightgreen;
+    font-size: 23px;
+}
+canvas{
+    border: 5px inset whitesmoke;
+border-radius: 10px;
+box-shadow: 5px 5px 5px gray;
+margin-top: 200px;
+}
+.stopbtn{
+    box-shadow: 5px 5px 5px #df4759
+}
